@@ -1,0 +1,15 @@
+    {
+        "firebase": {
+            "databaseURL": "https://charbot-firebase.firebaseio.com",
+            "credential": {
+                "type": "service_account",
+                "project_id": "charbot-firebase",
+                   "apiKey": "AIzaSyChN6Z32Hkgee8zf0vdnax3t86qp0k80cU",
+        "authDomain": "charbot-firebase.firebaseapp.com",
+        "databaseURL": "https://charbot-firebase.firebaseio.com",
+        "projectId": "charbot-firebase",
+        "storageBucket": "",
+        "messagingSenderId": "5259106020"
+            }
+        }
+    }
